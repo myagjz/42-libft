@@ -3,7 +3,9 @@
   This project consists of coding basic C functions, which are then compiled into a library for use in other projects of the cursus.
 
   <h1 align="center">
+    
      ![libftm](https://github.com/myagjz/42-libft/assets/112881823/8364fda4-25b5-4265-85ed-3492efdbe856)
+     
   </h1>
   
  
